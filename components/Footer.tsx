@@ -21,7 +21,7 @@ export function Footer() {
           <a
             target="_blank"
             rel="noopener noreferrer"
-            href="https://github.com/paramjeet/myself.engineer"
+            href="https://github.com/paramjeetn/myself.engineer"
             className="size-6 flex items-center justify-center border-design-gray border rounded-md"
           >
             <img src="/footer/github.svg" className="size-4" />
